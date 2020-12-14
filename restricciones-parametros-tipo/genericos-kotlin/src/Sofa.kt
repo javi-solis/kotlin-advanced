@@ -1,0 +1,1 @@
+class Sofa(nombre: String, val numeroDePlazas: Int, dimension: Dimension): Mueble(nombre, dimension)

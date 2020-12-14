@@ -1,0 +1,1 @@
+class Mesa(nombre: String, dimension: Dimension): Mueble(nombre, dimension)

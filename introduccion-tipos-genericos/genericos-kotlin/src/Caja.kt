@@ -1,0 +1,1 @@
+class Caja(var sofa: Sofa, val dimension: Dimension)
